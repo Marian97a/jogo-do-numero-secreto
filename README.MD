@@ -8,13 +8,29 @@ Um jogo simples e interativo onde o jogador deve adivinhar um número secreto ge
 - 🔢 O jogador insere um número e recebe dicas se o número secreto é **maior ou menor**.
 - 🏆 Quando o jogador acerta, o jogo exibe a quantidade de tentativas.
 - 🗣️ O jogo inclui **síntese de voz** para feedback ao jogador.
-- 🔄 Possibilidade de **reiniciar** o jogo após a vitória.
+- 🔄 Possibilidade de reiniciar o jogo após a vitória.
 
 ## 🛠️ **Tecnologias Utilizadas**
 
-- ✅ **HTML5**
-- ✅ **CSS3**
-- ✅ **JavaScript (Vanilla JS)**
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 🎓 **Créditos**
+
+Este projeto foi desenvolvido como parte do curso da **Alura + ONE - Formação Geração 8**.
+
+## 🚀 **Como Executar o Projeto**
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Marian97a/jogo-do-numero-secreto.git
+   ```
+2. Abra o arquivo `index.html` em seu navegador preferido.
+
+Divirta-se jogando! 🎯
+
+
 
 ## 🚀 **Como Jogar**
 
@@ -46,9 +62,6 @@ Um jogo simples e interativo onde o jogador deve adivinhar um número secreto ge
 - ✅ **Implementar** um contador de tempo para desafios mais emocionantes.
 - ✅ **Criar** um design responsivo para dispositivos móveis.
 
-## 🎮 **Demonstração**
-
-Você pode testar o jogo diretamente em seu navegador! Basta abrir o arquivo `index.html`.
 
 ## 📜 **Licença**
 
